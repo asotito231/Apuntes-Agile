@@ -104,6 +104,7 @@
 		- Implicacion: Proporcionar la posibilidad de solucionar
 		- Satisfaccion: Proporcionar la solucion
 
-## Falta ubicar:
+### Como resolver problemas:
 	- Poda el arbol: Permite agregar funcionalidades en base al MVP
 	- Lancha rapida: Permite ver las cosas que te van a acercar al proyecto y lo que te va a generar problema
+	- Pensar en el futuro: Pensar los escenarios que podrian causar problemas para identificar riesgos y ver como mitigarlos
